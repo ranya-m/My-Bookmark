@@ -1,0 +1,30 @@
+#modalTitle {
+    margin: 0 auto;
+    font-size: 1.1em;
+    font-weight: 400;
+    margin-bottom: 6px;
+}
+
+#modalButton {
+    background-color: #7f0d96e8;
+    border: none;
+}
+
+#modalButton:hover {
+    filter:opacity(50%);
+}
+
+#modalForm,
+#modalBox{
+    background-color: #f1d6f5;    
+}
+
+.inputField {
+    border-color: black !important;
+}
+
+.inputField:focus {
+
+    outline-color: #fbea33 !important;
+} 
+
