@@ -2,7 +2,7 @@
   "name": "bookmark",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/my-bookmark",
+  "homepage": "https://ranya-m.github.io/my-bookmark",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
